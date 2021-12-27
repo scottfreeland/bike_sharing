@@ -6,7 +6,7 @@ The goal of this project is to provide data analysis to support a proposal to br
 ## Results
 ![link to dashboard](https://public.tableau.com/app/profile/scott.freeland/viz/bikesharing_challenge_16405012545400/CitibikiesReadyforDesMoines?publish=yes "link to dashboard")
 
-![August Peak Hours](Resources/August_Peak_Hours.png)
+![August Peak Hours](../Resources/August_Peak_Hours.png)
 This bar graph depicts the frequency of rides taken based on the starttime hour of the ride. So, a ride that begins at 11am corresponds to the "Hour of Starttime" on the vertical axis. Hour 20 corresponds to 8pm. Apparently, the busiest hour of the day for rides starting is at 5pm, with about 225,000 rides starting at 5pm throughout all the month of August 2019.
 
 ![Average Trip Duration](Resources/Average_Trip_Duration.png)
